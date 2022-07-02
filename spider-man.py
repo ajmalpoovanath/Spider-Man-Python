@@ -37,3 +37,13 @@ seth(125)
 circle(30,135)
 seth(275)
 fd(90)
+
+# arm 1
+penup()
+pensize(10)
+goto(92,-150)
+seth(240)
+pendown()
+fd(80)
+left(10)
+circle(-28,185)
